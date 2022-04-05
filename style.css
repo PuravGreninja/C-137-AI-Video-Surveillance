@@ -1,0 +1,33 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.Heading{
+    width: 100%;
+    font-size: 25px;
+    margin-top: 0%;
+}
+#start{
+    margin-top: 10px;
+    font-size: 20px;
+}
+#status , #obj_no{
+    margin-top: 10px;
+    font-size: 14px;
+    padding: 5px;
+}
+#footer{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    background-color:aqua;
+    text-align: center;
+    line-height: 3;
+    box-shadow: 5px 5px 18px aqua;
+}
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 70px;
+    box-shadow: 5px 5px 5px white;
+}
